@@ -2,4 +2,5 @@
 ### Junior Developer
 
 ## Contact Info
-*Email: * **am.valadezpicon@ugto.mx**
+**Email:** *am.valadezpicon@ugto.mx*
+**Discord:** *Ariel\#008*
