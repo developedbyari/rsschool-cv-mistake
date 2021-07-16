@@ -3,11 +3,14 @@
 
 ## Contact Info
 **Email:** *am.valadezpicon@ugto.mx*
+
 **Discord:** *Ariel\#008*
 
 ### Summary
 As long as I live I'll be continue being a student.
+
 I will use my entire set of skills to create your vision.
+
 Don't give me a deadline, give me a due date.
 
 ### Skills
@@ -34,6 +37,6 @@ User Experience
 #### Front-end Mentoring Program
 
 ## Languages
-**Spanish:** *Native*
+**Spanish:** Native
 
-**English:** *C1*(I wat ch movies and series, listen to podcast and music, read books and news articles. But I don't get lots of hands-on talking experience in my daily life.)
+**English:** C1 *(I watch movies and series, listen to podcast and music, read books and news articles. But I don't get lots of hands-on talking experience in my daily life.)*
