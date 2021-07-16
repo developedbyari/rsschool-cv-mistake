@@ -12,15 +12,19 @@ Don't give me a deadline, give me a due date.
 
 ### Skills
 HTML & CSS
+
 Javascript
+
 User Experience
 
 ### Code
 **Github:** [*developedbyari*](https://github.com/developedbyari/)
+
 **Gitlab:** [*developedbyari*](https://gitlab.com/developedbyari)
 
 ### Experience
-[**^My personal site:**](https://amvp.me)
+[**My personal site**](https://amvp.me)
+
 [**My mom's therapy site**](https://amate.coach)
 
 ## Education
@@ -31,4 +35,5 @@ User Experience
 
 ## Languages
 **Spanish:** *Native*
-**English:** *C1* (I watch movies and series, listen to podcast and music, read books and news articles. But I don't get lots of hands-on talking experience in my daily life.)
+
+**English:** *C1*(I wat ch movies and series, listen to podcast and music, read books and news articles. But I don't get lots of hands-on talking experience in my daily life.)
